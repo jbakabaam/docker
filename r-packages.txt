@@ -1,0 +1,14 @@
+qlcMatrix
+R.utils
+Rcpp
+RcppParallel
+RcppArmadillo
+data.table
+RcppEigen
+Matrix
+methods
+BH
+optparse
+SPAtest
+SKAT
+RhpcBLASctl
